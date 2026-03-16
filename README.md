@@ -16,7 +16,7 @@ An AI-powered research assistant built with **LangChain** and **Ollama (LLaMA 3.
 ## Project Structure
 
 ```
-ai-research-assistant/
+langchain-research-agent/
 ├── agent.py          # LangChain agent setup with tools
 ├── app.py            # Streamlit frontend
 ├── tools.py          # Web search and scraping tools
