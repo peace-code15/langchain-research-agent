@@ -1,0 +1,7 @@
+langchain 
+langchain-openai 
+langchain-community
+streamlit
+duckduckgo-search
+requests
+beautifulsoup4
